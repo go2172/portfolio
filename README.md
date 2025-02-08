@@ -6,7 +6,7 @@ Physics, PhD
 
 ### Work Experience
 
-Data scientist @ Toyota Financial Services
+Data scientist @ Toyota Financial Service
 
 big impact project 1!
 
