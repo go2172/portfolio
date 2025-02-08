@@ -4,7 +4,7 @@
 
 Physics, PhD
 
-### Work Experience
+### Work Experienc
 
 Data scientist @ Toyota Financial Service
 
